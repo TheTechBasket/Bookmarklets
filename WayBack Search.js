@@ -1,0 +1,1 @@
+﻿javascript: void(location.href = 'http://web.archive.org/web/*/' + escape(location.href));

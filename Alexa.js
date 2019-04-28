@@ -1,0 +1,1 @@
+﻿javascript: location = 'https://www.alexa.com/siteinfo/' + location.hostname

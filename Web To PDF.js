@@ -1,0 +1,1 @@
+﻿javascript: void(window.open('https://www.web2pdfconvert.com#' + location.href))
