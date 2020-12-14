@@ -1,5 +1,5 @@
 # Best Bookmarklets For You
-![enter image description here](https://files.thetechbasket.com/37-Bookmarklets-to-Boost-Your-Productivity.png)
+![featured image from page](https://www.thetechbasket.com/wp-content/uploads/37-Bookmarklets-to-Boost-Your-Productivity.png)
 
 Article [37 Bookmarklets to Boost Your Productivity in Chrome, Firefox & Safari](https://www.thetechbasket.com/most-useful-bookmarklets/)
 
