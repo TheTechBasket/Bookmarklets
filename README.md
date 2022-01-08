@@ -7,4 +7,4 @@ Article [37 Bookmarklets to Boost Your Productivity in Chrome, Firefox & Safari]
 
 Just Select the bookmarklet code and drag it to bookmark bar, that's it.
 
-![enter image description here](https://files.thetechbasket.com/how-to-install-bookmarklet.gif)
+![enter image description here](https://www.thetechbasket.com/wp-content/uploads/how-to-install-bookmarklet.gif)
